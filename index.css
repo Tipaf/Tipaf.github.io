@@ -1,1 +1,15 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=PT+Sans&display=swap');
+</style> 
+
 h1 {color: red; font-family: Verdana, sans-serif}	
+html {background: purple}
+#Test {color: green;}
+.TestC {font-family: 'Ephesis', cursive;}
+.Testimg { text-align: : center;
+	width: 50px;
+	height: 50px;
+}
+div.TestDiv {
+  text-align: center;
+}
